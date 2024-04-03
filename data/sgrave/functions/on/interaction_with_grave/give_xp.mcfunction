@@ -1,0 +1,1 @@
+$xp add @p[tag=sgrave.has_interacted_with_grave] $(total) points
